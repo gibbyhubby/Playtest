@@ -54,6 +54,7 @@
  
  * [Lander: Isaiah Montez](https://isaiahmontez.github.io/Lander/index.html)--- work on the controls
 
+ *.[Lander: Caleb Bruns](https://gibbyhubby.githubio/Lander/index.html)--- Improved game, fixed bugs and attatched camera to ship.
 </details>
 
 <details>
